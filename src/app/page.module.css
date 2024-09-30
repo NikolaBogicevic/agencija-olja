@@ -118,7 +118,7 @@ text-align: left; */
     width: 105%;
     transform: translate(0px, 100%);
     background-color: #ffffff;
-    height: 10%;
+    height: 13%;
   }
   .heroText {
     display: flex;
@@ -733,8 +733,8 @@ text-align: left; */
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-image: url(heroPicture.jpg);
-    color: rgb(43, 43, 43);
+    background-image: url(heroPicture1.jpg);
+    color: rgb(255, 254, 254);
     width: 100%;
     gap: 40px;
     padding: 40px;
@@ -775,6 +775,7 @@ text-align: left; */
   .heroImage {
     border-radius: 16px;
     box-shadow: 10px 12px 25px 0px rgba(0, 0, 0, 0.9);
+    opacity: 0.5;
   }
   .sectionWrapper {
     width: 100%;
