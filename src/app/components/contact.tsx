@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import { useForm } from "react-hook-form";
-import contactUs from "../contactUs.jpg";
+import contactUs from "../../../public/assets/contactUs.jpg";
 import styles from "../page.module.css";
 import { useEffect, useRef, useState } from "react";
 import emailjs from "@emailjs/browser";

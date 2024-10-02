@@ -106,7 +106,7 @@ text-align: left; */
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-image: url(hero.png);
+    background-image: url(../../public/assets/hero.png);
   }
 
   .hero::after {
@@ -221,7 +221,7 @@ text-align: left; */
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-image: url(packages.jpg);
+    background-image: url(../../public/assets/packages.jpg);
   }
   /* .packages::after {
     content: "";
@@ -483,7 +483,7 @@ text-align: left; */
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-image: url(contact.jpg);
+    background-image: url(../../public/assets/contact.jpg);
     color: black;
     gap: 80px;
     justify-content: center;
@@ -733,7 +733,7 @@ text-align: left; */
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-image: url(heroPicture1.jpg);
+    background-image: url(../../public/assets/heroPicture1.jpg);
     color: rgb(255, 254, 254);
     width: 100%;
     gap: 40px;
@@ -823,7 +823,7 @@ text-align: left; */
   .packages {
     position: relative;
     width: 100%;
-    background-image: url(hero.jpg);
+    background-image: url(../../public/assets/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     isolation: isolate;
@@ -1028,7 +1028,7 @@ text-align: left; */
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-image: url(contactWrp.jpg);
+    background-image: url(../../public/assets/contactWrp.jpg);
     display: flex;
     flex-direction: column;
     color: #343434;

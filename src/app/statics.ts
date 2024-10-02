@@ -1,8 +1,8 @@
-import budget from './budget.png'
-import schedule from './schedule.png'
-import teamwork from './teamwork.png'
-import audit from './audit.png'
-import accounting from './accounting.png'
+import budget from '../../public/assets/budget.png'
+import schedule from '../../public/assets/schedule.png'
+import teamwork from '../../public/assets/teamwork.png'
+import audit from '../../public/assets/audit.png'
+import accounting from '../../public/assets/accounting.png'
 
 export const services =  [
     {

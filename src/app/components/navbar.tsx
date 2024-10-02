@@ -6,7 +6,7 @@ import { FaChevronDown } from "react-icons/fa6";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { IoClose } from "react-icons/io5";
 import styles from "../page.module.css";
-import vector from "../vector.jpeg";
+import vector from "../../../public/assets/vector.jpeg";
 import { usePathname, useRouter } from "next/navigation";
 
 export default function Navbar() {

@@ -1,9 +1,7 @@
 import Image from "next/image";
-import hero from "../hero03.jpg";
+import hero from "../../../public/assets/hero03.jpg";
 import styles from "../page.module.css";
 import { useRouter } from "next/navigation";
-import en from "../../../locales/en";
-import sr from "../../../locales/sr";
 
 export function Hero() {
   // const router = useRouter();
@@ -13,7 +11,7 @@ export function Hero() {
   return (
       <div className={styles.hero} id="Home">
         <div className={styles.heroText}>
-          <h1>{sr.heroTitle}</h1>
+          <h1>Сачувајте своје финансије за бољу будућност</h1>
           <p>
           Брига о новцу је универзална. Многи од нас, из целог света и из свих сфера живота, готово су стално суочени са финансијским стресом и неизвесношћу у погледу будућности. Шта највише брине људе када су финансије у питању и који су корисни савети за финансијску сигурност, сазнајте у наставку.
           </p>

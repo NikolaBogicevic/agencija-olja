@@ -1,10 +1,10 @@
 import React from "react";
 import Image, { StaticImageData } from "next/image";
-import facebook from "../facebook.png";
-import instagram from "../instagram.png";
-import twitter from "../twitter.png";
-import linkedin from "../linkedin.png";
-import smArt from "../smArt.png";
+import facebook from "../../../public/assets/facebook.png";
+import instagram from "../../../public/assets/instagram.png";
+import twitter from "../../../public/assets/twitter.png";
+import linkedin from "../../../public/assets/linkedin.png";
+import smArt from "../../../public/assets/smArt.png";
 import styles from "../page.module.css";
 import { TfiEmail } from "react-icons/tfi";
 import { IoLocationSharp } from "react-icons/io5";

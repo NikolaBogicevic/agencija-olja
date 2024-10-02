@@ -1,8 +1,8 @@
 import styles from "../page.module.css";
-import fiveStars from "../fiveStars.png";
-import zdravko from "../zdravko.png";
-import malutas from "../malutas.jpeg";
-import apollo from "../apollo.png";
+import fiveStars from "../../../public/assets/fiveStars.png";
+import zdravko from "../../../public/assets/zdravko.png";
+import malutas from "../../../public/assets/malutas.jpeg";
+import apollo from "../../../public/assets/apollo.png";
 import Image from "next/image";
 
 export default function Testimonials() {

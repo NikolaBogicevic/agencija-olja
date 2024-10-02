@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import Image from "next/image";
-import expand from "../expand.png";
+import expand from "../../../public/assets/expand.png";
 import styles from "../page.module.css";
 import clsx from 'clsx';
 
